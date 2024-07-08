@@ -1,0 +1,18 @@
+.GoBack{
+    background-color:rgb(252, 208, 21);
+    border-bottom: 8px solid rgb(205, 167, 72);
+    border-radius: 10px;
+    padding: 5px 7px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 20px; 
+    display:inline-block;
+    /* position: absolute;
+    top:40px;
+    left: 60px; */    
+}
+.GoBack:hover{
+    background-color:rgb(199, 175, 67);
+    border-bottom: 8px solid rgb(186, 186, 51);
+    color: rgba(122, 118, 118);
+}
